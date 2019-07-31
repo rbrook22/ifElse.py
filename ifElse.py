@@ -1,5 +1,5 @@
 #Creating my first if else statements
-name= "Ricky"
+name= "Rick"
 
 if name == 'Ricky':
     print("Hello Ricky!")
