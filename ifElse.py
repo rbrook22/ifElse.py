@@ -1,4 +1,5 @@
 #Creating my first if else statements
+#Testing out comments
 name= "Rick"
 
 if name == 'Ricky':
