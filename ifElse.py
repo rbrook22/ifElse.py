@@ -1,6 +1,6 @@
 #Creating my first if else statements
 #Testing out comments
-name= "Rick"
+name= "Ricky"
 
 if name == 'Ricky':
     print("Hello Ricky!")
